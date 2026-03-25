@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-03-25T03:57:23.249Z",
+  "timestampET": "3/24/2026, 11:57:23 PM",
+  "pipeline": {
+    "jobsScanned": 663,
+    "eligible": 502,
+    "score7plus": 466,
+    "approved": 0,
+    "interviews": 3,
+    "rejections": 10,
+    "recruiters": 2,
+    "crmTracked": 24
+  },
+  "topJobs": [
+    {
+      "title": "Project Management Co-op (Fall 2026)",
+      "company": "Consigli Construction",
+      "location": "Elsmere, Albany County",
+      "score": 8
+    },
+    {
+      "title": "Project Manager - US Field Medical Capabilities",
+      "company": "TSR Consulting",
+      "location": "Lawrence, NJ",
+      "score": 8
+    },
+    {
+      "title": "Summer Associate Project Manager Intern — Paid and Growth",
+      "company": "Quanta Services, Inc.",
+      "location": "Sumner, WA",
+      "score": 8
+    },
+    {
+      "title": "Summer Project Coordinator Intern - Software Services",
+      "company": "IMT Insurance",
+      "location": "West Des Moines, IA",
+      "score": 8
+    },
+    {
+      "title": "Summer Project Coordinator Intern - Data & Procurement",
+      "company": "apexanalytix",
+      "location": "Greensboro, NC",
+      "score": 8
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0,
+    "totalCalls": 76
+  }
+}
