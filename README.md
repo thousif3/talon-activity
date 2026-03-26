@@ -6,14 +6,14 @@
 
 This repo receives automatic daily commits from the TALON system running 24/7 on a personal Mini PC. Each commit represents a day of autonomous operation — job scanning, AI scoring, Gmail monitoring, and news intelligence.
 
-## Latest Stats (2026-03-25)
+## Latest Stats (2026-03-26)
 
 | Metric | Value |
 |--------|-------|
-| Jobs in Pipeline | 663 |
-| High-Score Matches (7+/10) | 466 |
+| Jobs in Pipeline | 628 |
+| High-Score Matches (7+/10) | 450 |
 | Interviews Tracked | 3 |
-| Active Applications | 30 |
+| Active Applications | 29 |
 
 ## How TALON Works
 
