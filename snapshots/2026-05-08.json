@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-08T03:33:13.110Z",
+  "timestampET": "5/7/2026, 11:33:13 PM",
+  "pipeline": {
+    "jobsScanned": 995,
+    "eligible": 933,
+    "score7plus": 933,
+    "approved": 5,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
+  },
+  "topJobs": [
+    {
+      "title": "Summer Project Coordinator Intern — Paid & Learning",
+      "company": "N-STORE Services, LLC",
+      "location": "Chesterfield, MO",
+      "score": 9.9
+    },
+    {
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
+      "score": 9.9
+    },
+    {
+      "title": "Summer Project Manager: Admin & Process Improvement Intern",
+      "company": "Richemont",
+      "location": "Fort Worth, TX",
+      "score": 10
+    },
+    {
+      "title": "STARZ Intern, Project Management Office - Project Manager",
+      "company": "Starz",
+      "location": "Greenwood Village, CO",
+      "score": 10
+    },
+    {
+      "title": "Remote PMO Intern: Agile Software Project Coordinator",
+      "company": "BD (Becton, Dickinson and Company)",
+      "location": "San Diego, CA",
+      "score": 10
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 17418
+  }
+}
