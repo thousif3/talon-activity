@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-12T22:35:12.104Z",
+  "timestampET": "5/12/2026, 6:35:12 PM",
+  "pipeline": {
+    "jobsScanned": 1028,
+    "eligible": 26,
+    "score7plus": 26,
+    "approved": 5,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
+  },
+  "topJobs": [
+    {
+      "title": "Sales & Project Management Intern",
+      "company": "Bosch Group",
+      "location": "Farmington Hills, Oakland County",
+      "score": 9.8
+    },
+    {
+      "title": "Infrastructure Project Manager I (Sewerage & Water Board) (Class Code 3415)",
+      "company": "City of New Orleans",
+      "location": "New Orleans, Orleans Parish",
+      "score": 8.5
+    },
+    {
+      "title": "Summer Project Manager: Admin & Process Improvement Intern",
+      "company": "Richemont",
+      "location": "Fort Worth, TX",
+      "score": 10
+    },
+    {
+      "title": "Scrum Master Intern",
+      "company": "Corpay",
+      "location": "Peachtree Corners, GA",
+      "score": 9.7
+    },
+    {
+      "title": "Remote PMO Intern: Agile Software Project Coordinator",
+      "company": "BD (Becton, Dickinson and Company)",
+      "location": "San Diego, CA",
+      "score": 10
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 20074
+  }
+}
