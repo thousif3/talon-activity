@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-13T22:40:03.341Z",
+  "timestampET": "5/13/2026, 6:40:03 PM",
+  "pipeline": {
+    "jobsScanned": 1039,
+    "eligible": 46,
+    "score7plus": 46,
+    "approved": 5,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
+  },
+  "topJobs": [
+    {
+      "title": "Midwest Project Management Intern - Summer 2025",
+      "company": "Aldridge Group",
+      "location": "US",
+      "score": 10
+    },
+    {
+      "title": "Sales Project Manager Summer Intern - 3 months",
+      "company": "Cloudflare",
+      "location": "San Francisco, California",
+      "score": 10
+    },
+    {
+      "title": "Summer Project Manager: Admin & Process Improvement Intern",
+      "company": "Richemont",
+      "location": "Fort Worth, TX",
+      "score": 10
+    },
+    {
+      "title": "Scrum Master Intern",
+      "company": "Corpay",
+      "location": "Peachtree Corners, GA",
+      "score": 10
+    },
+    {
+      "title": "Assistant Project Manager",
+      "company": "Bailey-Harris Construction",
+      "location": "Huntsville, AL",
+      "score": 8.5
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 20976
+  }
+}
