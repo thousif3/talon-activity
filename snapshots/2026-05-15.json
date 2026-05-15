@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-15T22:57:46.685Z",
+  "timestampET": "5/15/2026, 6:57:46 PM",
+  "pipeline": {
+    "jobsScanned": 1008,
+    "eligible": 49,
+    "score7plus": 49,
+    "approved": 5,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
+  },
+  "topJobs": [
+    {
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
+      "score": 9.8
+    },
+    {
+      "title": "Scrum Master Intern",
+      "company": "Corpay",
+      "location": "Peachtree Corners, GA",
+      "score": 9.4
+    },
+    {
+      "title": "Project Manager",
+      "company": "ExtraPower",
+      "location": "New York, NY",
+      "score": 8.5
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge-Priest, Inc.",
+      "location": "Fort Worth, TX",
+      "score": 9.4
+    },
+    {
+      "title": "iXp: Associate Project Manager Intern (6-Month)",
+      "company": "SAP",
+      "location": "Newtown Square, PA",
+      "score": 10
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 21634
+  }
+}
