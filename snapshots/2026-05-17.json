@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-17T11:36:36.155Z",
-  "timestampET": "5/17/2026, 7:36:36 AM",
+  "timestamp": "2026-05-17T22:10:00.081Z",
+  "timestampET": "5/17/2026, 6:10:00 PM",
   "pipeline": {
-    "jobsScanned": 1001,
-    "eligible": 54,
-    "score7plus": 54,
+    "jobsScanned": 962,
+    "eligible": 33,
+    "score7plus": 33,
     "approved": 5,
     "interviews": 0,
     "rejections": 0,
@@ -14,37 +14,37 @@
   "topJobs": [
     {
       "title": "Project Manager",
-      "company": "ExtraPower",
-      "location": "New York, NY",
-      "score": 8.5
-    },
-    {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge-Priest, Inc.",
-      "location": "Fort Worth, TX",
-      "score": 9.4
-    },
-    {
-      "title": "iXp: Associate Project Manager Intern (6-Month)",
-      "company": "SAP",
-      "location": "Newtown Square, PA",
-      "score": 10
-    },
-    {
-      "title": "Project Manager",
       "company": "KPRS Construction Services, Inc.",
       "location": "San Diego, CA",
       "score": 8.5
     },
     {
-      "title": "Healthcare Project Coordinator Intern",
-      "company": "ESP Engineered",
-      "location": "Florida, NY",
+      "title": "Product Manager Intern",
+      "company": "Crusoe",
+      "location": "San Francisco, CA",
+      "score": 8.3
+    },
+    {
+      "title": "Assistant Project Manager",
+      "company": "JEM Group LLC",
+      "location": "Camp Hill, PA",
       "score": 8.5
+    },
+    {
+      "title": "Staffing Operations Analyst Intern",
+      "company": "Teleworld Solutions",
+      "location": "Chantilly, Loudoun County, VA",
+      "score": 8
+    },
+    {
+      "title": "Operations Analyst Intern: Drive Process Improvement",
+      "company": "Digital Factory, Inc.",
+      "location": "Chicago, IL",
+      "score": 8
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 21980
+    "totalCalls": 22878
   }
 }
