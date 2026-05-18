@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-18T12:03:28.359Z",
+  "timestampET": "5/18/2026, 8:03:28 AM",
+  "pipeline": {
+    "jobsScanned": 985,
+    "eligible": 15,
+    "score7plus": 15,
+    "approved": 5,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
+  },
+  "topJobs": [
+    {
+      "title": "Junior IWMS Project Manager - Intern",
+      "company": "Volaris Group",
+      "location": "Texas, US",
+      "score": 9.8
+    },
+    {
+      "title": "Junior IWMS Project Manager - Intern",
+      "company": "AssetWorks",
+      "location": "Texas, US",
+      "score": 9.5
+    },
+    {
+      "title": "iXp: Associate Project Manager Intern (6-Month)",
+      "company": "SAP",
+      "location": "Newtown Square, PA",
+      "score": 10
+    },
+    {
+      "title": "Remote Project Coordinator Intern: Start Your PM Career",
+      "company": "Southern Arkansas University",
+      "location": "Kearny, NJ",
+      "score": 8.6
+    },
+    {
+      "title": "Product Management Intern - Summer 2026",
+      "company": "Medacta USA",
+      "location": "Franklin, Williamson County",
+      "score": 9
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 23038
+  }
+}
