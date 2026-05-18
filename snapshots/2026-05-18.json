@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-18T12:03:28.359Z",
-  "timestampET": "5/18/2026, 8:03:28 AM",
+  "timestamp": "2026-05-18T23:10:26.004Z",
+  "timestampET": "5/18/2026, 7:10:26 PM",
   "pipeline": {
-    "jobsScanned": 985,
+    "jobsScanned": 1002,
     "eligible": 15,
     "score7plus": 15,
     "approved": 5,
@@ -13,38 +13,38 @@
   },
   "topJobs": [
     {
-      "title": "Junior IWMS Project Manager - Intern",
-      "company": "Volaris Group",
-      "location": "Texas, US",
-      "score": 9.8
+      "title": "Product Management Intern",
+      "company": "Eaton Corporation",
+      "location": "Ballwin, Saint Louis County",
+      "score": 9.4
     },
     {
-      "title": "Junior IWMS Project Manager - Intern",
-      "company": "AssetWorks",
-      "location": "Texas, US",
-      "score": 9.5
+      "title": "Project Coordinator [Entry Level]",
+      "company": "Anchor Home",
+      "location": "Timonium, Baltimore County",
+      "score": 8.5
     },
     {
-      "title": "iXp: Associate Project Manager Intern (6-Month)",
-      "company": "SAP",
-      "location": "Newtown Square, PA",
-      "score": 10
+      "title": "Junior Project Coordinator: Grow in PM & Ops",
+      "company": "Limitless East Marketing",
+      "location": "Boston, MA",
+      "score": 9.2
     },
     {
-      "title": "Remote Project Coordinator Intern: Start Your PM Career",
-      "company": "Southern Arkansas University",
-      "location": "Kearny, NJ",
-      "score": 8.6
+      "title": "Impactful Business Analyst Intern — Onsite LA, Part-Time",
+      "company": "taasservicesllc",
+      "location": "Los Angeles, CA",
+      "score": 7.7
     },
     {
-      "title": "Product Management Intern - Summer 2026",
-      "company": "Medacta USA",
-      "location": "Franklin, Williamson County",
-      "score": 9
+      "title": "Agile Project Manager/Scrum Master",
+      "company": "Saxon Global",
+      "location": "Columbia, MD",
+      "score": 9.4
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 23038
+    "totalCalls": 23650
   }
 }
