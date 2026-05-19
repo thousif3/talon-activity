@@ -10,8 +10,8 @@ This repo receives automatic daily commits from the TALON system running 24/7 on
 
 | Metric | Value |
 |--------|-------|
-| Jobs in Pipeline | 884 |
-| High-Score Matches (7+/10) | 12 |
+| Jobs in Pipeline | 973 |
+| High-Score Matches (7+/10) | 9 |
 | Interviews Tracked | 0 |
 | Active Applications | 0 |
 
