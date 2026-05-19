@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-19T10:54:17.145Z",
+  "timestampET": "5/19/2026, 6:54:17 AM",
+  "pipeline": {
+    "jobsScanned": 884,
+    "eligible": 12,
+    "score7plus": 12,
+    "approved": 5,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
+  },
+  "topJobs": [
+    {
+      "title": "iXp: Associate Project Manager Intern (6-Month)",
+      "company": "SAP",
+      "location": "Newtown Square, PA",
+      "score": 9.5
+    },
+    {
+      "title": "Project Portfolio Data Analyst Intern",
+      "company": "Ensono",
+      "location": "Remote",
+      "score": 9
+    },
+    {
+      "title": "Product Owner / Project Manager Intern",
+      "company": "American Technology Consulting",
+      "location": "Des Moines, IA",
+      "score": 9.3
+    },
+    {
+      "title": "Space Systems Tech Project Manager Intern",
+      "company": "Astranis Space Technologies",
+      "location": "San Francisco, CA",
+      "score": 9.8
+    },
+    {
+      "title": "Product Manager - Skillbridge Internship (Hypergiant)",
+      "company": "Accelint",
+      "location": "Remote",
+      "score": 7.7
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 23726
+  }
+}
