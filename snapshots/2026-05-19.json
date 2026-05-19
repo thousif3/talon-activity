@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-19T10:54:17.145Z",
-  "timestampET": "5/19/2026, 6:54:17 AM",
+  "timestamp": "2026-05-19T23:18:58.206Z",
+  "timestampET": "5/19/2026, 7:18:58 PM",
   "pipeline": {
-    "jobsScanned": 884,
-    "eligible": 12,
-    "score7plus": 12,
+    "jobsScanned": 973,
+    "eligible": 9,
+    "score7plus": 9,
     "approved": 5,
     "interviews": 0,
     "rejections": 0,
@@ -13,38 +13,38 @@
   },
   "topJobs": [
     {
-      "title": "iXp: Associate Project Manager Intern (6-Month)",
-      "company": "SAP",
-      "location": "Newtown Square, PA",
-      "score": 9.5
+      "title": "Intern - Compliance Project Management",
+      "company": "American Credit Acceptance",
+      "location": "Spartanburg, Spartanburg County",
+      "score": 8.5
     },
     {
-      "title": "Project Portfolio Data Analyst Intern",
-      "company": "Ensono",
-      "location": "Remote",
-      "score": 9
+      "title": "Project Management Intern",
+      "company": "Rust-Oleum Corporation",
+      "location": "Baltimore, Baltimore County",
+      "score": 9.4
     },
     {
-      "title": "Product Owner / Project Manager Intern",
-      "company": "American Technology Consulting",
-      "location": "Des Moines, IA",
-      "score": 9.3
+      "title": "Product Manager Intern, Commerce Ads for Shop",
+      "company": "TikTok",
+      "location": "San Jose, CA",
+      "score": 9.2
     },
     {
-      "title": "Space Systems Tech Project Manager Intern",
-      "company": "Astranis Space Technologies",
-      "location": "San Francisco, CA",
-      "score": 9.8
+      "title": "AI Product Manager Intern: Fast-Paced Ad Tech",
+      "company": "Creatify AI",
+      "location": "Mountain View, CA",
+      "score": 8.8
     },
     {
-      "title": "Product Manager - Skillbridge Internship (Hypergiant)",
-      "company": "Accelint",
-      "location": "Remote",
-      "score": 7.7
+      "title": "AI Product Manager Intern: Shape Social Content & UX",
+      "company": "TikTok",
+      "location": "San Jose, CA",
+      "score": 8.6
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 23726
+    "totalCalls": 24064
   }
 }
