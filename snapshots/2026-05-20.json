@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-20T11:30:24.537Z",
+  "timestampET": "5/20/2026, 7:30:24 AM",
+  "pipeline": {
+    "jobsScanned": 956,
+    "eligible": 35,
+    "score7plus": 35,
+    "approved": 5,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
+  },
+  "topJobs": [
+    {
+      "title": "iXp: Associate Project Manager Intern (6-Month)",
+      "company": "SAP",
+      "location": "Newtown Square, PA",
+      "score": 9.8
+    },
+    {
+      "title": "Project Manager Intern",
+      "company": "Gardens of Babylon",
+      "location": "Nashville, TN",
+      "score": 9
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "D.A. Davidson’s Special District Group",
+      "location": "Vancouver, WA",
+      "score": 8.5
+    },
+    {
+      "title": "Project Portfolio Data Analyst Intern",
+      "company": "Ensono",
+      "location": "Remote",
+      "score": 9.6
+    },
+    {
+      "title": "R&D NPI Project Coordinator Intern",
+      "company": "Repligen Corporation",
+      "location": "Marlborough, MA",
+      "score": 9.9
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 24326
+  }
+}
