@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-22T11:54:19.545Z",
+  "timestampET": "5/22/2026, 7:54:19 AM",
+  "pipeline": {
+    "jobsScanned": 976,
+    "eligible": 26,
+    "score7plus": 26,
+    "approved": 5,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
+  },
+  "topJobs": [
+    {
+      "title": "Project Manager",
+      "company": "IMPACT BRANDS",
+      "location": "New York, NY",
+      "score": 9.8
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge-Priest, Inc.",
+      "location": "Fort Worth, TX",
+      "score": 8.3
+    },
+    {
+      "title": "iXp: Associate Project Manager Intern (6-Month)",
+      "company": "SAP",
+      "location": "Newtown Square, PA",
+      "score": 10
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "D.A. Davidson",
+      "location": "Seattle, WA",
+      "score": 8.7
+    },
+    {
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 9
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 25570
+  }
+}
