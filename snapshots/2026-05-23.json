@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-23T11:53:06.838Z",
+  "timestampET": "5/23/2026, 7:53:06 AM",
+  "pipeline": {
+    "jobsScanned": 1012,
+    "eligible": 56,
+    "score7plus": 56,
+    "approved": 5,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
+  },
+  "topJobs": [
+    {
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
+      "score": 9.8
+    },
+    {
+      "title": "Project Manager",
+      "company": "IMPACT BRANDS",
+      "location": "New York, NY",
+      "score": 10
+    },
+    {
+      "title": "iXp: Associate Project Manager Intern (6-Month)",
+      "company": "SAP",
+      "location": "Newtown Square, PA",
+      "score": 9.6
+    },
+    {
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 9
+    },
+    {
+      "title": "Junior IWMS Project Manager Intern - Part-Time",
+      "company": "Incognito Software Systems Inc",
+      "location": "Wisconsin",
+      "score": 8.5
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 26156
+  }
+}
