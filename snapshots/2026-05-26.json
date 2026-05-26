@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-05-26T00:12:10.778Z",
+  "timestampET": "5/25/2026, 8:12:10 PM",
+  "pipeline": {
+    "jobsScanned": 976,
+    "eligible": 1,
+    "score7plus": 1,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Project Manager",
+      "company": "IMPACT BRANDS",
+      "location": "New York, NY",
+      "score": 10
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 26676
+  }
+}
