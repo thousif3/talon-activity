@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-27T11:24:38.509Z",
-  "timestampET": "5/27/2026, 7:24:38 AM",
+  "timestamp": "2026-05-27T23:21:48.180Z",
+  "timestampET": "5/27/2026, 7:21:48 PM",
   "pipeline": {
-    "jobsScanned": 963,
-    "eligible": 48,
-    "score7plus": 48,
+    "jobsScanned": 1025,
+    "eligible": 30,
+    "score7plus": 30,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -13,38 +13,38 @@
   },
   "topJobs": [
     {
-      "title": "Project Manager",
-      "company": "IMPACT BRANDS",
+      "title": "Product Manager Intern",
+      "company": "Pendulum, LLC",
       "location": "New York, NY",
-      "score": 10
+      "score": 9.8
     },
     {
-      "title": "PROJECT COORDINATOR INTERNSHIP",
-      "company": "Bear Real Estate Group",
-      "location": "Milwaukee, WI",
-      "score": 8.6
+      "title": "Product Manager Intern: Shape User-Focused Solutions",
+      "company": "Cloudflare",
+      "location": "Austin, TX",
+      "score": 8.8
     },
     {
-      "title": "MIS Project Manager Co-Op",
-      "company": "Clean Harbors",
-      "location": "Norwell, MA",
-      "score": 10
+      "title": "Product Manager Intern - Consumer Tech & Growth",
+      "company": "RippleMatch Inc.",
+      "location": "Boston, MA",
+      "score": 9.3
     },
     {
-      "title": "Project Coordinator",
-      "company": "D.A. Davidson",
-      "location": "Lake Oswego, OR",
-      "score": 9.2
+      "title": "Product Manager Intern",
+      "company": "Generationshe",
+      "location": "Austin, TX",
+      "score": 8.7
     },
     {
-      "title": "Project Coordinator Intern",
-      "company": "Silk Commerce",
-      "location": "Irvine, CA",
-      "score": 9.1
+      "title": "Product Manager Intern, Commerce Ads for Shop",
+      "company": "TikTok",
+      "location": "San Jose, CA",
+      "score": 9.5
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 27730
+    "totalCalls": 28348
   }
 }
