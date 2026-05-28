@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-28T12:27:50.338Z",
+  "timestampET": "5/28/2026, 8:27:50 AM",
+  "pipeline": {
+    "jobsScanned": 1017,
+    "eligible": 19,
+    "score7plus": 19,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "IWMS Project Manager Intern - Start Your PM Career",
+      "company": "Incognito Software Systems Inc",
+      "location": "Wisconsin",
+      "score": 8.5
+    },
+    {
+      "title": "iXp: Associate Project Manager Intern (6-Month)",
+      "company": "SAP",
+      "location": "Newtown Square, PA",
+      "score": 9.5
+    },
+    {
+      "title": "Product Manager Intern, Commerce Ads for Shop",
+      "company": "TikTok",
+      "location": "San Jose, CA",
+      "score": 9.5
+    },
+    {
+      "title": "Remote Product Manager Intern, Analytics Platform",
+      "company": "Pendulum, LLC",
+      "location": "New York, NY",
+      "score": 10
+    },
+    {
+      "title": "Remote Product Manager Intern: Shape Next-Gen Analytics",
+      "company": "Pendulum Intelligence",
+      "location": "New York, NY",
+      "score": 9.3
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 28490
+  }
+}
