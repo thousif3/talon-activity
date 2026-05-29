@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-29T23:12:38.395Z",
+  "timestampET": "5/29/2026, 7:12:38 PM",
+  "pipeline": {
+    "jobsScanned": 1024,
+    "eligible": 54,
+    "score7plus": 54,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "JOC Project Manager",
+      "company": "Actalent",
+      "location": "Des Plaines, Cook County",
+      "score": 9.5
+    },
+    {
+      "title": "Project Manager",
+      "company": "IMPACT BRANDS",
+      "location": "New York, NY",
+      "score": 10
+    },
+    {
+      "title": "PROJECT COORDINATOR INTERNSHIP",
+      "company": "Bear Real Estate Group",
+      "location": "Milwaukee, WI",
+      "score": 8.5
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge-Priest, Inc.",
+      "location": "Fort Worth, TX",
+      "score": 9.4
+    },
+    {
+      "title": "SkillBridge Project Manager Intern - AEC/GIS",
+      "company": "Larson Design Group",
+      "location": "King of Prussia, PA",
+      "score": 9.8
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 29870
+  }
+}
