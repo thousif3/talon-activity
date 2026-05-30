@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-30T12:53:09.941Z",
+  "timestampET": "5/30/2026, 8:53:09 AM",
+  "pipeline": {
+    "jobsScanned": 1061,
+    "eligible": 26,
+    "score7plus": 26,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
+      "score": 9.8
+    },
+    {
+      "title": "Project Manager",
+      "company": "IMPACT BRANDS",
+      "location": "New York, NY",
+      "score": 9.5
+    },
+    {
+      "title": "Emerging IWMS Project Manager",
+      "company": "Incognito Software Systems Inc",
+      "location": "Wisconsin",
+      "score": 8
+    },
+    {
+      "title": "IWMS Project Manager Intern - Part Time",
+      "company": "Incognito Software Systems Inc",
+      "location": "Wisconsin",
+      "score": 9.6
+    },
+    {
+      "title": "Product Manager Intern - Summer 2026 (Mobile & Web)",
+      "company": "TikTok",
+      "location": "San Jose, CA",
+      "score": 9.3
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 30050
+  }
+}
