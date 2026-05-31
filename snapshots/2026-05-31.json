@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-31T23:34:26.033Z",
+  "timestampET": "5/31/2026, 7:34:26 PM",
+  "pipeline": {
+    "jobsScanned": 1069,
+    "eligible": 42,
+    "score7plus": 42,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Project Manager",
+      "company": "IMPACT BRANDS",
+      "location": "New York, NY",
+      "score": 10
+    },
+    {
+      "title": "Project Manager",
+      "company": "Clune Construction",
+      "location": "Dallas, TX",
+      "score": 8.5
+    },
+    {
+      "title": "Project Coordinator Intern - Environmental Services (Summer 2026)",
+      "company": "Stantec",
+      "location": "Roseville, CA",
+      "score": 8.5
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge-Priest, Inc.",
+      "location": "Fort Worth, TX",
+      "score": 9.4
+    },
+    {
+      "title": "SkillBridge Project Manager Intern - AEC/GIS",
+      "company": "Larson Design Group",
+      "location": "King of Prussia, PA",
+      "score": 9.9
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 31368
+  }
+}
