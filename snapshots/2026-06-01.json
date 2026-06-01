@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-01T12:16:49.176Z",
+  "timestampET": "6/1/2026, 8:16:49 AM",
+  "pipeline": {
+    "jobsScanned": 1004,
+    "eligible": 24,
+    "score7plus": 24,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "STARZ Intern, Project Management Office - Project Manager",
+      "company": "Starz",
+      "location": "Denver, CO",
+      "score": 10
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "D.A. Davidson",
+      "location": "Seattle, WA",
+      "score": 8
+    },
+    {
+      "title": "iXp: Associate Project Manager Intern (6-Month)",
+      "company": "SAP",
+      "location": "Newtown Square, PA",
+      "score": 9.5
+    },
+    {
+      "title": "Product Manager Intern: Shape User-Focused Solutions",
+      "company": "Cloudflare",
+      "location": "Austin, TX",
+      "score": 9.5
+    },
+    {
+      "title": "Product Manager Intern, Consumer Products",
+      "company": "RippleMatch Inc.",
+      "location": "Boston, MA",
+      "score": 9.5
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 31502
+  }
+}
