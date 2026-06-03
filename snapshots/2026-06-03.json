@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-03T12:25:12.755Z",
+  "timestampET": "6/3/2026, 8:25:12 AM",
+  "pipeline": {
+    "jobsScanned": 1017,
+    "eligible": 14,
+    "score7plus": 14,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "SkillBridge Project Manager Intern - AEC/GIS",
+      "company": "Larson Design Group",
+      "location": "King of Prussia, PA",
+      "score": 8.9
+    },
+    {
+      "title": "Product Manager Intern",
+      "company": "Pendulum, LLC",
+      "location": "New York, NY",
+      "score": 9.8
+    },
+    {
+      "title": "Product Manager Internships",
+      "company": "Danaher",
+      "location": "West Chester, PA",
+      "score": 9.6
+    },
+    {
+      "title": "Product Manager Intern",
+      "company": "Generationshe",
+      "location": "Austin, TX",
+      "score": 8.8
+    },
+    {
+      "title": "Remote Product Manager Intern, Analytics Platform",
+      "company": "Pendulum, LLC",
+      "location": "New York, NY",
+      "score": 9.6
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 32872
+  }
+}
