@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-04T23:27:40.744Z",
+  "timestampET": "6/4/2026, 7:27:40 PM",
+  "pipeline": {
+    "jobsScanned": 1033,
+    "eligible": 30,
+    "score7plus": 30,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Intern",
+      "company": "Repligen Corp",
+      "location": "Rancho Dominguez, Los Angeles County",
+      "score": 8.5
+    },
+    {
+      "title": "CQV Project Manager",
+      "company": "PSC Biotech",
+      "location": "Chicago, IL",
+      "score": 10
+    },
+    {
+      "title": "Project Manager",
+      "company": "F.H. Paschen",
+      "location": "Chicago, IL",
+      "score": 8.5
+    },
+    {
+      "title": "DoD SkillBridge: Project Manager",
+      "company": "Vets2PM",
+      "location": "Indianapolis, IN",
+      "score": 10
+    },
+    {
+      "title": "Junior IWMS Project Manager - Intern",
+      "company": "Incognito Software Systems Inc",
+      "location": "Wisconsin",
+      "score": 8.5
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 34000
+  }
+}
