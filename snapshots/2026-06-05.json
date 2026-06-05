@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-05T12:43:21.393Z",
+  "timestampET": "6/5/2026, 8:43:21 AM",
+  "pipeline": {
+    "jobsScanned": 1032,
+    "eligible": 11,
+    "score7plus": 11,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "OH Product Manager Intern - OVIP",
+      "company": "Oracle",
+      "location": "Raleigh, NC",
+      "score": 9.2
+    },
+    {
+      "title": "Product Manager Intern, Commerce Ads for Shop",
+      "company": "TikTok",
+      "location": "San Jose, CA",
+      "score": 10
+    },
+    {
+      "title": "AI-Driven Product Manager Intern",
+      "company": "Feedinkoo",
+      "location": "New York, NY",
+      "score": 9.4
+    },
+    {
+      "title": "Remote Product Manager Intern, Analytics Platform",
+      "company": "Pendulum, LLC",
+      "location": "New York, NY",
+      "score": 9.7
+    },
+    {
+      "title": "Remote Product Manager Intern: Shape Next-Gen Analytics",
+      "company": "Pendulum Intelligence",
+      "location": "New York, NY",
+      "score": 9.2
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 34112
+  }
+}
