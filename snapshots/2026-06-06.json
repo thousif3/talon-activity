@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-06T23:37:04.308Z",
+  "timestampET": "6/6/2026, 7:37:04 PM",
+  "pipeline": {
+    "jobsScanned": 1004,
+    "eligible": 9,
+    "score7plus": 9,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Intern, Project Management",
+      "company": "NICE",
+      "location": "Hoboken, Hudson County",
+      "score": 9.3
+    },
+    {
+      "title": "Program Manager, Persistence Operations",
+      "company": "Arizona State University",
+      "location": "Scottsdale, AZ",
+      "score": 8.5
+    },
+    {
+      "title": "Architectural Project Coordinator",
+      "company": "Carlile Group | Building Services",
+      "location": "Manteno, IL",
+      "score": 8.5
+    },
+    {
+      "title": "PMO Change Coordinator: Drive Change & Delivery",
+      "company": "AssistRx",
+      "location": "Orlando, FL",
+      "score": 7.1
+    },
+    {
+      "title": "Intern - Business Analyst - It Operations",
+      "company": "SitusAMC",
+      "location": "New York, NY",
+      "score": 9.4
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 34722
+  }
+}
