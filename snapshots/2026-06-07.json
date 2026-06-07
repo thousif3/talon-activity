@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-07T11:53:28.064Z",
-  "timestampET": "6/7/2026, 7:53:28 AM",
+  "timestamp": "2026-06-07T22:38:56.340Z",
+  "timestampET": "6/7/2026, 6:38:56 PM",
   "pipeline": {
-    "jobsScanned": 986,
-    "eligible": 21,
-    "score7plus": 21,
+    "jobsScanned": 922,
+    "eligible": 17,
+    "score7plus": 17,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -13,38 +13,38 @@
   },
   "topJobs": [
     {
-      "title": "Junior IWMS Project Manager - Intern",
-      "company": "Volaris Group",
-      "location": "Wisconsin",
+      "title": "Product Manager Intern, Dealer Growth & Marketing",
+      "company": "RippleMatch Inc.",
+      "location": "Boston, MA",
+      "score": 9.6
+    },
+    {
+      "title": "Remote Product Manager Intern: Shape Next-Gen Analytics",
+      "company": "Pendulum Intelligence",
+      "location": "New York, NY",
+      "score": 10
+    },
+    {
+      "title": "Assistant Project Manager",
+      "company": "TRC Talent Solutions",
+      "location": "Arlington, TX",
+      "score": 8.5
+    },
+    {
+      "title": "PMO Coordinator: Governance, Reporting & Workflow",
+      "company": "Toho Water Authority",
+      "location": "Kissimmee, FL",
+      "score": 7
+    },
+    {
+      "title": "Business Systems Analyst Co-op",
+      "company": "RippleMatch Inc.",
+      "location": "Boston, MA",
       "score": 8.6
-    },
-    {
-      "title": "iXp: Associate Project Manager Intern (6-Month)",
-      "company": "SAP",
-      "location": "Newtown Square, PA",
-      "score": 10
-    },
-    {
-      "title": "Product Manager Intern",
-      "company": "NetApp",
-      "location": "Campbell, Santa Clara County",
-      "score": 9.5
-    },
-    {
-      "title": "Product Management Intern",
-      "company": "LifeMD",
-      "location": "New York City, New York",
-      "score": 9
-    },
-    {
-      "title": "Product Management Intern",
-      "company": "Stride, Inc.",
-      "location": "Boise County, Idaho",
-      "score": 10
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 34900
+    "totalCalls": 35356
   }
 }
