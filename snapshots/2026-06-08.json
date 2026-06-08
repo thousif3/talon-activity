@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-08T11:39:24.068Z",
+  "timestampET": "6/8/2026, 7:39:24 AM",
+  "pipeline": {
+    "jobsScanned": 959,
+    "eligible": 16,
+    "score7plus": 16,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Product Manager Intern",
+      "company": "Pendulum, LLC",
+      "location": "New York, NY",
+      "score": 9.5
+    },
+    {
+      "title": "Product Manager Intern (Class of 2027)",
+      "company": "Publicis Sapient",
+      "location": "Chicago, IL",
+      "score": 9
+    },
+    {
+      "title": "Product Manager Intern - Consumer Tech & Growth",
+      "company": "RippleMatch Inc.",
+      "location": "Boston, MA",
+      "score": 9.2
+    },
+    {
+      "title": "Product Manager Intern, Dealer Growth & Marketing",
+      "company": "RippleMatch Inc.",
+      "location": "Boston, MA",
+      "score": 9.4
+    },
+    {
+      "title": "Product Manager Intern",
+      "company": "Creatify AI",
+      "location": "Mountain View, CA",
+      "score": 9
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 35506
+  }
+}
