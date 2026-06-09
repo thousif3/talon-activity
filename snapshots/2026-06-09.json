@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-09T11:25:04.341Z",
-  "timestampET": "6/9/2026, 7:25:04 AM",
+  "timestamp": "2026-06-09T23:28:40.821Z",
+  "timestampET": "6/9/2026, 7:28:40 PM",
   "pipeline": {
-    "jobsScanned": 927,
-    "eligible": 10,
-    "score7plus": 10,
+    "jobsScanned": 1018,
+    "eligible": 15,
+    "score7plus": 15,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -13,38 +13,38 @@
   },
   "topJobs": [
     {
-      "title": "Remote Product Manager Intern: Shape Next-Gen Analytics",
-      "company": "Pendulum Intelligence",
-      "location": "New York, NY",
-      "score": 9.8
-    },
-    {
-      "title": "AI Product Manager Intern: Build and Test Next-Gen AI Features",
-      "company": "OpusClip",
-      "location": "Palo Alto, CA",
-      "score": 8.3
-    },
-    {
-      "title": "MBA Product Manager Intern — Onsite in Chicago",
-      "company": "Neonforlife",
-      "location": "Chicago, IL",
-      "score": 9
-    },
-    {
-      "title": "Remote Review & Translation Program Manager Intern",
-      "company": "Kiva",
-      "location": "New York, NY",
+      "title": "Project Management - Internship",
+      "company": "Tech Pipeline",
+      "location": "New York City, New York",
       "score": 10
     },
     {
-      "title": "Assistant Project Manager - Multifamily/Student Housing Construction",
-      "company": "Landmark Construction",
-      "location": "Minneapolis, MN",
-      "score": 9.4
+      "title": "Assistant Project Manager",
+      "company": "Compu Dynamics",
+      "location": "Chantilly, Loudoun County, VA",
+      "score": 9.5
+    },
+    {
+      "title": "Workforce Planning and Development Program Coordinator?(Digital & Technology)",
+      "company": "Guardian Life",
+      "location": "New York, NY",
+      "score": 7.6
+    },
+    {
+      "title": "Business System Analyst",
+      "company": "Bowling Green",
+      "location": "Toledo, OH",
+      "score": 7
+    },
+    {
+      "title": "Agile Project Manager/Scrum Master",
+      "company": "Apex Informatics",
+      "location": "Atlanta, GA",
+      "score": 10
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 36142
+    "totalCalls": 36708
   }
 }
