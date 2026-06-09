@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-09T11:25:04.341Z",
+  "timestampET": "6/9/2026, 7:25:04 AM",
+  "pipeline": {
+    "jobsScanned": 927,
+    "eligible": 10,
+    "score7plus": 10,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Remote Product Manager Intern: Shape Next-Gen Analytics",
+      "company": "Pendulum Intelligence",
+      "location": "New York, NY",
+      "score": 9.8
+    },
+    {
+      "title": "AI Product Manager Intern: Build and Test Next-Gen AI Features",
+      "company": "OpusClip",
+      "location": "Palo Alto, CA",
+      "score": 8.3
+    },
+    {
+      "title": "MBA Product Manager Intern — Onsite in Chicago",
+      "company": "Neonforlife",
+      "location": "Chicago, IL",
+      "score": 9
+    },
+    {
+      "title": "Remote Review & Translation Program Manager Intern",
+      "company": "Kiva",
+      "location": "New York, NY",
+      "score": 10
+    },
+    {
+      "title": "Assistant Project Manager - Multifamily/Student Housing Construction",
+      "company": "Landmark Construction",
+      "location": "Minneapolis, MN",
+      "score": 9.4
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 36142
+  }
+}
