@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-10T12:22:40.569Z",
+  "timestampET": "6/10/2026, 8:22:40 AM",
+  "pipeline": {
+    "jobsScanned": 1007,
+    "eligible": 20,
+    "score7plus": 20,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
+      "score": 9.8
+    },
+    {
+      "title": "Project Manager Intern - Madvisions",
+      "company": "Taraki",
+      "location": "United States",
+      "score": 8.2
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "Stride, Inc.",
+      "location": "Atlanta, Fulton County",
+      "score": 9.8
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "Stride, Inc.",
+      "location": "Phoenix, Maricopa County",
+      "score": 9.6
+    },
+    {
+      "title": "Product Manager Intern",
+      "company": "Pendulum, LLC",
+      "location": "New York, NY",
+      "score": 8.9
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 36856
+  }
+}
