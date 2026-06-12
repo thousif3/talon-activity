@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-12T12:33:17.972Z",
+  "timestampET": "6/12/2026, 8:33:17 AM",
+  "pipeline": {
+    "jobsScanned": 1018,
+    "eligible": 9,
+    "score7plus": 9,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Product Management Intern",
+      "company": "Stride, Inc.",
+      "location": "Raleigh, Wake County",
+      "score": 10
+    },
+    {
+      "title": "Product Management Intern",
+      "company": "Stride, Inc.",
+      "location": "Juneau, Alaska",
+      "score": 9.8
+    },
+    {
+      "title": "Product Manager, Intern",
+      "company": "Tessera Labs",
+      "location": "United States",
+      "score": 8.5
+    },
+    {
+      "title": "Product Manager Intern (Class of 2027)",
+      "company": "Publicis Sapient",
+      "location": "Chicago, IL",
+      "score": 10
+    },
+    {
+      "title": "AI Product Manager Intern - Drive Feedback & AI Testing",
+      "company": "OpusClip",
+      "location": "Mountain View, CA",
+      "score": 9.8
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 37996
+  }
+}
