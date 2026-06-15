@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-06-15T13:06:08.499Z",
+  "timestampET": "6/15/2026, 9:06:08 AM",
+  "pipeline": {
+    "jobsScanned": 1052,
+    "eligible": 4,
+    "score7plus": 4,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Assistant Project Manager",
+      "company": "Hoffman & Hoffman Inc",
+      "location": "Richmond, VA",
+      "score": 10
+    },
+    {
+      "title": "Business Analyst Intern",
+      "company": "Sandhills Global, Inc.",
+      "location": "Lincoln, NE",
+      "score": 9.1
+    },
+    {
+      "title": "SAP Sales Performance Management iXp Intern - Operations Analyst",
+      "company": "SAP SE",
+      "location": "Chicago, IL",
+      "score": 10
+    },
+    {
+      "title": "Manufacturing Operations Data Analyst",
+      "company": "Kelvion",
+      "location": "Catoosa, OK",
+      "score": 7.3
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 38726
+  }
+}
