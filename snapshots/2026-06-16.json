@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-16T11:14:30.061Z",
-  "timestampET": "6/16/2026, 7:14:30 AM",
+  "timestamp": "2026-06-16T23:59:44.229Z",
+  "timestampET": "6/16/2026, 7:59:44 PM",
   "pipeline": {
-    "jobsScanned": 901,
-    "eligible": 2,
-    "score7plus": 2,
+    "jobsScanned": 961,
+    "eligible": 1,
+    "score7plus": 1,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -13,20 +13,14 @@
   },
   "topJobs": [
     {
-      "title": "Product Manager Intern",
-      "company": "Creatify AI",
-      "location": "Mountain View, CA",
-      "score": 10
-    },
-    {
-      "title": "Hybrid PMO Coordinator for HR Transformation & Workday",
-      "company": "Ektello",
-      "location": "Englewood Cliffs, NJ",
-      "score": 8.7
+      "title": "Research Partnerships Program Manager",
+      "company": "IntePros",
+      "location": "Seattle, WA",
+      "score": 9.8
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38742
+    "totalCalls": 38748
   }
 }
