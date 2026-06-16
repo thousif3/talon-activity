@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-06-16T11:14:30.061Z",
+  "timestampET": "6/16/2026, 7:14:30 AM",
+  "pipeline": {
+    "jobsScanned": 901,
+    "eligible": 2,
+    "score7plus": 2,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Product Manager Intern",
+      "company": "Creatify AI",
+      "location": "Mountain View, CA",
+      "score": 10
+    },
+    {
+      "title": "Hybrid PMO Coordinator for HR Transformation & Workday",
+      "company": "Ektello",
+      "location": "Englewood Cliffs, NJ",
+      "score": 8.7
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 38742
+  }
+}
