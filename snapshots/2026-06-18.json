@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-06-18T00:20:36.663Z",
+  "timestampET": "6/17/2026, 8:20:36 PM",
+  "pipeline": {
+    "jobsScanned": 989,
+    "eligible": 2,
+    "score7plus": 2,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Growth Strategy Analyst, Performance & Comp",
+      "company": "Charlie Health",
+      "location": "New York, NY",
+      "score": 7.3
+    },
+    {
+      "title": "Warehouse Project Manager Distribution Re-location",
+      "company": "AAE Company",
+      "location": "Goshen, IN",
+      "score": 8.5
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 38762
+  }
+}
