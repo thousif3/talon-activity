@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-20T00:56:51.247Z",
-  "timestampET": "6/19/2026, 8:56:51 PM",
+  "timestamp": "2026-06-20T23:51:43.614Z",
+  "timestampET": "6/20/2026, 7:51:43 PM",
   "pipeline": {
-    "jobsScanned": 1035,
-    "eligible": 3,
-    "score7plus": 3,
+    "jobsScanned": 951,
+    "eligible": 4,
+    "score7plus": 4,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -13,26 +13,32 @@
   },
   "topJobs": [
     {
-      "title": "Jr. IT Security Project Coordinator",
-      "company": "Ultimate LLC",
-      "location": "Plano, TX",
+      "title": "Program Manager - Sacred Spaces",
+      "company": "Southeastern Michigan Health Association",
+      "location": "Detroit, MI",
+      "score": 8.9
+    },
+    {
+      "title": "Assistant Project Manager",
+      "company": "Romanoff Group of Companies",
+      "location": "North Charleston, SC",
       "score": 8.5
     },
     {
-      "title": "Executive Coordinator PMO",
-      "company": "EMD Millipore",
-      "location": "Burlington, MA",
-      "score": 8.3
+      "title": "IT Intake Coordinator",
+      "company": "Xerox Business Solutions",
+      "location": "Fairfax, VA",
+      "score": 7
     },
     {
-      "title": "Agile Project Manager / Scrum Master",
-      "company": "inSync Staffing",
-      "location": "Atlanta, GA",
-      "score": 10
+      "title": "Fleet Operations Data Analyst",
+      "company": "Manpower",
+      "location": "San Mateo, CA",
+      "score": 8.2
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38792
+    "totalCalls": 38812
   }
 }
