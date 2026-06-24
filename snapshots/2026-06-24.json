@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-06-24T00:44:26.472Z",
+  "timestampET": "6/23/2026, 8:44:26 PM",
+  "pipeline": {
+    "jobsScanned": 1023,
+    "eligible": 4,
+    "score7plus": 4,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Product Manager Intern (Class of 2027)",
+      "company": "Publicis Sapient",
+      "location": "Chicago, IL",
+      "score": 10
+    },
+    {
+      "title": "Hardware Program Manager Intern - Cross-Functional PM",
+      "company": "Zipline",
+      "location": "South San Francisco, CA",
+      "score": 9.4
+    },
+    {
+      "title": "Operations Analyst - Corporate Real Estate",
+      "company": "TransPerfect",
+      "location": "New York, NY",
+      "score": 7.6
+    },
+    {
+      "title": "Remote Development Operations & Data Analyst",
+      "company": "Obama Foundation",
+      "location": "Springfield, IL",
+      "score": 8.6
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 38854
+  }
+}
