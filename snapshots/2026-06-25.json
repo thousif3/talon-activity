@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-25T00:17:07.215Z",
-  "timestampET": "6/24/2026, 8:17:07 PM",
+  "timestamp": "2026-06-25T23:44:07.603Z",
+  "timestampET": "6/25/2026, 7:44:07 PM",
   "pipeline": {
-    "jobsScanned": 986,
-    "eligible": 3,
-    "score7plus": 3,
+    "jobsScanned": 941,
+    "eligible": 5,
+    "score7plus": 5,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -13,26 +13,38 @@
   },
   "topJobs": [
     {
-      "title": "Product Manager Intern",
-      "company": "Centerfield Corporation",
-      "location": "Los Angeles, CA",
+      "title": "Vehicle Firmware Program Manager Intern",
+      "company": "Tesla",
+      "location": "Palo Alto, CA",
       "score": 10
     },
     {
-      "title": "Remote PMO Coordinator for Engineering Projects",
-      "company": "Uptalent.io",
-      "location": "New York, NY",
-      "score": 10
+      "title": "Assistant Project Manager",
+      "company": "DynaFire LLC",
+      "location": "Casselberry, FL",
+      "score": 9.2
     },
     {
-      "title": "Health Information & EHR Analyst Training Program (Remote)",
-      "company": "OCHIN",
-      "location": "New York, NY",
-      "score": 7.3
+      "title": "Junior Project Coordinator — Billing & Admin Pathway",
+      "company": "IntePros",
+      "location": "Plymouth Meeting, PA",
+      "score": 8.5
+    },
+    {
+      "title": "Retail Marketing & Analytics Intern",
+      "company": "Kroger Great Lakes Distribution Center",
+      "location": "Conroe, TX",
+      "score": 8.5
+    },
+    {
+      "title": "(FALL) Data Analyst Intern",
+      "company": "IntegraFEC",
+      "location": "Austin, TX",
+      "score": 8.5
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38878
+    "totalCalls": 38906
   }
 }
