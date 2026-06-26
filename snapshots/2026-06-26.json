@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-06-26T12:48:02.810Z",
+  "timestampET": "6/26/2026, 8:48:02 AM",
+  "pipeline": {
+    "jobsScanned": 1024,
+    "eligible": 3,
+    "score7plus": 3,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "ASSISTANT PROJECT MANAGER",
+      "company": "Wells Concrete",
+      "location": "Ashland City, TN",
+      "score": 9.1
+    },
+    {
+      "title": "Sales Operations Analyst Intern — Data-Driven Pricing & SAP",
+      "company": "Oldcastle Infrastructure",
+      "location": "Atlanta, GA",
+      "score": 9.4
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "IvyTech",
+      "location": "Indianapolis, IN",
+      "score": 8.5
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 38920
+  }
+}
