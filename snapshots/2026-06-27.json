@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-27T23:06:40.122Z",
+  "timestampET": "6/27/2026, 7:06:40 PM",
+  "pipeline": {
+    "jobsScanned": 969,
+    "eligible": 15,
+    "score7plus": 15,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Intern Product Manager Innovations Partnerships Fall 2026Winter 2027",
+      "company": "BMW",
+      "location": "Mountain View, CA",
+      "score": 10
+    },
+    {
+      "title": "Business Data Analyst Intern",
+      "company": "Makers Air",
+      "location": "Fort Lauderdale, FL",
+      "score": 8.5
+    },
+    {
+      "title": "Scrum Master",
+      "company": "Two3Minds LLC",
+      "location": "Plano, TX",
+      "score": 9.3
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Southern Arkansas University",
+      "location": "New York, NY",
+      "score": 8.3
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Schweitzer Engineering Laboratories, Inc.",
+      "location": "Moscow, ID",
+      "score": 8.6
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 39498
+  }
+}
