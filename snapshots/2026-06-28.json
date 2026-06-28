@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-06-28T12:06:53.791Z",
+  "timestampET": "6/28/2026, 8:06:53 AM",
+  "pipeline": {
+    "jobsScanned": 977,
+    "eligible": 4,
+    "score7plus": 4,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Assistant Project Manager",
+      "company": "Tropic Mechanical",
+      "location": "Miami, FL",
+      "score": 9.8
+    },
+    {
+      "title": "Executive PMO & Stakeholder Coordinator",
+      "company": "MilliporeSigma",
+      "location": "Burlington, MA",
+      "score": 7
+    },
+    {
+      "title": "Business Operations Analyst Intern",
+      "company": "Advantest Corporation",
+      "location": "San Jose, CA",
+      "score": 9.8
+    },
+    {
+      "title": "Operations Data & Process Improvement Analyst",
+      "company": "Stryker Corporation",
+      "location": "California, MO",
+      "score": 7.3
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 39532
+  }
+}
