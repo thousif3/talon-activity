@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-06-29T21:47:59.747Z",
+  "timestampET": "6/29/2026, 5:47:59 PM",
+  "pipeline": {
+    "jobsScanned": 1004,
+    "eligible": 116,
+    "score7plus": 116,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Assistant Project Manager Intern",
+      "company": "W.W. Gay Mechanical Contractor, Inc.",
+      "location": "Gainesville, Alachua County",
+      "score": 8.5
+    },
+    {
+      "title": "Project Manager 2",
+      "company": "Andersen Construction",
+      "location": "Portland, OR",
+      "score": 8.5
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge Priest Inc",
+      "location": "Fort Worth, TX",
+      "score": 8.5
+    },
+    {
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 10
+    },
+    {
+      "title": "Remote PMO Intern: Agile Software Project Coordinator",
+      "company": "BD (Becton, Dickinson and Company)",
+      "location": "San Diego, CA",
+      "score": 10
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 40950
+  }
+}
