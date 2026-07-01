@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-01T08:37:21.398Z",
-  "timestampET": "7/1/2026, 4:37:21 AM",
+  "timestamp": "2026-07-01T22:38:45.515Z",
+  "timestampET": "7/1/2026, 6:38:45 PM",
   "pipeline": {
-    "jobsScanned": 884,
-    "eligible": 100,
-    "score7plus": 100,
+    "jobsScanned": 1014,
+    "eligible": 92,
+    "score7plus": 92,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -13,38 +13,38 @@
   },
   "topJobs": [
     {
-      "title": "Project Manager 2",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
+      "title": "Fall 2026 Project Management Internship",
+      "company": "Spencer's",
+      "location": "Egg Harbor, Atlantic County",
+      "score": 8.5
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Jazz Basketball Investors",
+      "location": "Sandy, Salt Lake County",
       "score": 8.5
     },
     {
       "title": "Junior Project Manager - Start Your PM Career in Tech",
       "company": "JanBask CRM Software",
       "location": "Arlington, VA",
-      "score": 9.8
-    },
-    {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge-Priest, Inc.",
-      "location": "Fort Worth, TX",
       "score": 8.7
     },
     {
-      "title": "Product Manager Intern",
-      "company": "Pendulum, LLC",
-      "location": "New York, NY",
-      "score": 9.3
+      "title": "Internship, Compensation Project Manager (Fall 2026)",
+      "company": "Tesla",
+      "location": "Austin, TX",
+      "score": 9.2
     },
     {
-      "title": "Product Manager Intern",
-      "company": "Centerfield Corporation",
+      "title": "Project Manager",
+      "company": "Clune Construction",
       "location": "Los Angeles, CA",
-      "score": 9
+      "score": 9.7
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 44474
+    "totalCalls": 45566
   }
 }
