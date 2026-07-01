@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-01T08:37:21.398Z",
+  "timestampET": "7/1/2026, 4:37:21 AM",
+  "pipeline": {
+    "jobsScanned": 884,
+    "eligible": 100,
+    "score7plus": 100,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Project Manager 2",
+      "company": "Andersen Construction",
+      "location": "Portland, OR",
+      "score": 8.5
+    },
+    {
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 9.8
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge-Priest, Inc.",
+      "location": "Fort Worth, TX",
+      "score": 8.7
+    },
+    {
+      "title": "Product Manager Intern",
+      "company": "Pendulum, LLC",
+      "location": "New York, NY",
+      "score": 9.3
+    },
+    {
+      "title": "Product Manager Intern",
+      "company": "Centerfield Corporation",
+      "location": "Los Angeles, CA",
+      "score": 9
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 44474
+  }
+}
