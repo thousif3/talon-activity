@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-02T10:40:51.329Z",
-  "timestampET": "7/2/2026, 6:40:51 AM",
+  "timestamp": "2026-07-02T23:07:24.681Z",
+  "timestampET": "7/2/2026, 7:07:24 PM",
   "pipeline": {
-    "jobsScanned": 1030,
+    "jobsScanned": 1006,
     "eligible": 85,
     "score7plus": 85,
     "approved": 9,
@@ -13,38 +13,38 @@
   },
   "topJobs": [
     {
-      "title": "Project Manager 2",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge Priest Inc",
+      "location": "Fort Worth, TX",
+      "score": 9.1
+    },
+    {
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
       "score": 8.5
     },
     {
       "title": "Project Manager Intern - Madvisions",
       "company": "Taraki",
       "location": "United States",
-      "score": 7.7
+      "score": 8
+    },
+    {
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 9.5
     },
     {
       "title": "Project Manager",
-      "company": "Irusri",
-      "location": "San Francisco, CA",
-      "score": 9.2
-    },
-    {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge-Priest, Inc.",
-      "location": "Fort Worth, TX",
-      "score": 8.3
-    },
-    {
-      "title": "Project Manager",
-      "company": "American Association for the Advancement of Science",
-      "location": "Washington DC",
-      "score": 8.1
+      "company": "Brasfield & Gorrie",
+      "location": "Jacksonville, FL",
+      "score": 9
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 46714
+    "totalCalls": 47622
   }
 }
