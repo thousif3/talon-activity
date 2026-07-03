@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-03T09:17:41.107Z",
+  "timestampET": "7/3/2026, 5:17:41 AM",
+  "pipeline": {
+    "jobsScanned": 930,
+    "eligible": 80,
+    "score7plus": 80,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Project Manager 2",
+      "company": "Andersen Construction",
+      "location": "Portland, OR",
+      "score": 8.5
+    },
+    {
+      "title": "Project Manager Intern - Madvisions",
+      "company": "Taraki",
+      "location": "United States",
+      "score": 8.5
+    },
+    {
+      "title": "Junior IWMS Project Manager - Intern",
+      "company": "Volaris Group",
+      "location": "Wausau, WI",
+      "score": 9
+    },
+    {
+      "title": "Project Manager",
+      "company": "BAILEY HARRIS CONSTRUCTION CO. INC.",
+      "location": "Auburn, AL",
+      "score": 8.5
+    },
+    {
+      "title": "Project Manager",
+      "company": "Irusri",
+      "location": "San Francisco, CA",
+      "score": 8.5
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 48742
+  }
+}
