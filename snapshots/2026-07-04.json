@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-04T00:33:34.176Z",
-  "timestampET": "7/3/2026, 8:33:34 PM",
+  "timestamp": "2026-07-04T23:12:22.250Z",
+  "timestampET": "7/4/2026, 7:12:22 PM",
   "pipeline": {
-    "jobsScanned": 1040,
-    "eligible": 26,
-    "score7plus": 26,
+    "jobsScanned": 932,
+    "eligible": 8,
+    "score7plus": 8,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -13,10 +13,10 @@
   },
   "topJobs": [
     {
-      "title": "Project Manager 2",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
-      "score": 8.5
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge Priest Inc",
+      "location": "Fort Worth, TX",
+      "score": 9.1
     },
     {
       "title": "Junior IWMS Project Manager - Intern",
@@ -25,26 +25,26 @@
       "score": 8.5
     },
     {
-      "title": "Assistant Project Manager Intern",
-      "company": "W.W. Gay Mechanical Contractor, Inc.",
-      "location": "Gainesville, FL",
-      "score": 9.1
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 9.8
     },
     {
       "title": "Project Manager",
-      "company": "American Association for the Advancement of Science",
-      "location": "Washington DC",
-      "score": 9
+      "company": "Irusri",
+      "location": "San Francisco, CA",
+      "score": 10
     },
     {
-      "title": "Product Management Intern (Fall 2026)",
-      "company": "Gemini",
-      "location": "New York City, New York",
-      "score": 8.8
+      "title": "Project Manager - Mission Critical",
+      "company": "Clune Construction",
+      "location": "San Francisco, CA",
+      "score": 8.5
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 49070
+    "totalCalls": 49266
   }
 }
