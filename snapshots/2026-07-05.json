@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-07-05T11:42:30.311Z",
+  "timestampET": "7/5/2026, 7:42:30 AM",
+  "pipeline": {
+    "jobsScanned": 952,
+    "eligible": 4,
+    "score7plus": 4,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Assistant Project Manager",
+      "company": "Actalent",
+      "location": "Rogers, MN",
+      "score": 8.5
+    },
+    {
+      "title": "Junior Project Manager",
+      "company": "Ryan Fireprotection",
+      "location": "Indianapolis, IN",
+      "score": 9.1
+    },
+    {
+      "title": "Junior Project Coordinator - Client & Operations",
+      "company": "PACIFIC NORTHERN INC",
+      "location": "Carrollton, TX",
+      "score": 8.5
+    },
+    {
+      "title": "Design Program Manager, AI",
+      "company": "Stripe",
+      "location": "US",
+      "score": 9.1
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 49380
+  }
+}
