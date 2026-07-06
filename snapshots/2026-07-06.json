@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-07-06T00:33:05.734Z",
+  "timestampET": "7/5/2026, 8:33:05 PM",
+  "pipeline": {
+    "jobsScanned": 1011,
+    "eligible": 4,
+    "score7plus": 4,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Network Engineering Intern Program Manager",
+      "company": "MetaProp",
+      "location": "Austin, TX",
+      "score": 9.5
+    },
+    {
+      "title": "Finance Operations Analyst",
+      "company": "Phaxis",
+      "location": "Jersey City, NJ",
+      "score": 7.3
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "OATS INC.",
+      "location": "Washington DC",
+      "score": 8.5
+    },
+    {
+      "title": "Consulting Analyst",
+      "company": "Codal",
+      "location": "Chicago, IL",
+      "score": 7.9
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 49418
+  }
+}
