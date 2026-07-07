@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-07T00:55:21.753Z",
+  "timestampET": "7/6/2026, 8:55:21 PM",
+  "pipeline": {
+    "jobsScanned": 1045,
+    "eligible": 6,
+    "score7plus": 6,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Product Manager Intern",
+      "company": "Centerfield Corporation",
+      "location": "Los Angeles, CA",
+      "score": 10
+    },
+    {
+      "title": "Junior Project Manager",
+      "company": "Virtual Vocations Inc",
+      "location": "United States",
+      "score": 10
+    },
+    {
+      "title": "Entry Level Project Coordinator Assistant",
+      "company": "The Steel Erection Company",
+      "location": "Huntington Beach, CA",
+      "score": 8.5
+    },
+    {
+      "title": "Program Operations Coordinator",
+      "company": "Alexander Mann Solutions",
+      "location": "Hartford, CT",
+      "score": 7.3
+    },
+    {
+      "title": "Intern, Business Systems Analyst (Summer Internship)",
+      "company": "The Wonderful Company",
+      "location": "Del Rey, CA",
+      "score": 9.8
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 49484
+  }
+}
