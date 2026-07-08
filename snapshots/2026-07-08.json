@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-08T00:18:00.208Z",
+  "timestampET": "7/7/2026, 8:18:00 PM",
+  "pipeline": {
+    "jobsScanned": 1027,
+    "eligible": 7,
+    "score7plus": 7,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Project Management Co-op (Spring 2027)",
+      "company": "Consigli Construction",
+      "location": "New York City, New York",
+      "score": 9.2
+    },
+    {
+      "title": "Project Manager 3",
+      "company": "Andersen Construction",
+      "location": "Portland, OR",
+      "score": 8.5
+    },
+    {
+      "title": "AI Product Manager Intern",
+      "company": "GP",
+      "location": "New York, NY",
+      "score": 9.8
+    },
+    {
+      "title": "Internship, Program Manager, Service (Fall 2026)",
+      "company": "Tesla Motors, Inc.",
+      "location": "Palo Alto, CA",
+      "score": 10
+    },
+    {
+      "title": "Assistant Project Manager",
+      "company": "North Shore Preserve",
+      "location": "Amenia, NY",
+      "score": 8
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 49668
+  }
+}
