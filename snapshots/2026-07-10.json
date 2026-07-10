@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-10T12:43:13.538Z",
+  "timestampET": "7/10/2026, 8:43:13 AM",
+  "pipeline": {
+    "jobsScanned": 1020,
+    "eligible": 5,
+    "score7plus": 5,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Healthcare IT Project Coordinator Intern",
+      "company": "Direct Jobs",
+      "location": "Raleigh, NC",
+      "score": 10
+    },
+    {
+      "title": "Review and Translation Program Project Manager Intern",
+      "company": "Kiva",
+      "location": "New York, NY",
+      "score": 10
+    },
+    {
+      "title": "Junior Project Manager",
+      "company": "Bravo Quality Supply LLC",
+      "location": "United States",
+      "score": 10
+    },
+    {
+      "title": "Associate Strategy Analyst",
+      "company": "Ross Stores, Inc.",
+      "location": "Dublin, CA",
+      "score": 7.3
+    },
+    {
+      "title": "Program Manager, Risk Ops Enablement",
+      "company": "Stripe",
+      "location": "US-Remote",
+      "score": 10
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 49854
+  }
+}
