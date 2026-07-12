@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-12T00:55:24.245Z",
+  "timestampET": "7/11/2026, 8:55:24 PM",
+  "pipeline": {
+    "jobsScanned": 1051,
+    "eligible": 8,
+    "score7plus": 8,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Fall 2026/Spring 2027 - Project Management Intern - 90412957 - New York",
+      "company": "Amtrak",
+      "location": "New York City, New York",
+      "score": 8.5
+    },
+    {
+      "title": "Events Program Manager — Marketing & Recruiting Ops",
+      "company": "PTR Global",
+      "location": "San Francisco, CA",
+      "score": 10
+    },
+    {
+      "title": "Junior Project Manager",
+      "company": "Bravo Quality Supply LLC",
+      "location": "United States",
+      "score": 10
+    },
+    {
+      "title": "Business Analyst Intern",
+      "company": "Tradox",
+      "location": "Piscataway, NJ",
+      "score": 9.8
+    },
+    {
+      "title": "Strategy & Operations Analyst",
+      "company": "Charlie Health",
+      "location": "New York, NY",
+      "score": 8.5
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 50006
+  }
+}
