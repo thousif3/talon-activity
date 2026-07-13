@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-13T00:23:51.035Z",
+  "timestampET": "7/12/2026, 8:23:51 PM",
+  "pipeline": {
+    "jobsScanned": 1043,
+    "eligible": 14,
+    "score7plus": 14,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Fall 2026/Spring 2027 - Project Management Intern - 90412957 - New York",
+      "company": "Amtrak",
+      "location": "New York City, New York",
+      "score": 9.1
+    },
+    {
+      "title": "Project Manager 3",
+      "company": "Andersen Construction",
+      "location": "Portland, OR",
+      "score": 8.5
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge Priest Inc",
+      "location": "Fort Worth, TX",
+      "score": 8.5
+    },
+    {
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
+      "score": 9.5
+    },
+    {
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 9.8
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 50278
+  }
+}
