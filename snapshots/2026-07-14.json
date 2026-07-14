@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-14T00:04:39.824Z",
-  "timestampET": "7/13/2026, 8:04:39 PM",
+  "timestamp": "2026-07-14T23:23:45.564Z",
+  "timestampET": "7/14/2026, 7:23:45 PM",
   "pipeline": {
-    "jobsScanned": 1000,
-    "eligible": 12,
-    "score7plus": 12,
+    "jobsScanned": 942,
+    "eligible": 13,
+    "score7plus": 13,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -22,13 +22,13 @@
       "title": "Summer Internship - Assistant Project Manager",
       "company": "Lochridge Priest Inc",
       "location": "Fort Worth, TX",
-      "score": 9.1
+      "score": 8.5
     },
     {
       "title": "Junior Project Manager - Start Your PM Career in Tech",
       "company": "JanBask CRM Software",
       "location": "Arlington, VA",
-      "score": 10
+      "score": 9.8
     },
     {
       "title": "Project Manager",
@@ -45,6 +45,6 @@
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 50410
+    "totalCalls": 50534
   }
 }
