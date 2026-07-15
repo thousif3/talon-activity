@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-15T12:07:56.253Z",
+  "timestampET": "7/15/2026, 8:07:56 AM",
+  "pipeline": {
+    "jobsScanned": 976,
+    "eligible": 5,
+    "score7plus": 5,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Project Manager - Mission Critical",
+      "company": "Clune Construction",
+      "location": "Chicago, IL",
+      "score": 8
+    },
+    {
+      "title": "SCA Project Manager Intern - OVIP",
+      "company": "Ll Oefentherapie",
+      "location": "Seattle, WA",
+      "score": 8.7
+    },
+    {
+      "title": "Product Manager Intern (Class of 2027)",
+      "company": "Publicis Sapient",
+      "location": "Chicago, IL",
+      "score": 10
+    },
+    {
+      "title": "Events Program Manager",
+      "company": "Palantir Technologies",
+      "location": "New York, NY",
+      "score": 8.5
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Summit Spine and Joint Centers",
+      "location": "Lawrenceville, GA",
+      "score": 8.5
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 50564
+  }
+}
