@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-20T00:42:07.391Z",
-  "timestampET": "7/19/2026, 8:42:07 PM",
+  "timestamp": "2026-07-20T23:51:22.642Z",
+  "timestampET": "7/20/2026, 7:51:22 PM",
   "pipeline": {
-    "jobsScanned": 1055,
-    "eligible": 13,
-    "score7plus": 13,
+    "jobsScanned": 980,
+    "eligible": 20,
+    "score7plus": 20,
     "approved": 9,
     "interviews": 0,
     "rejections": 0,
@@ -28,23 +28,23 @@
       "title": "Summer Internship - Assistant Project Manager",
       "company": "Lochridge Priest Inc",
       "location": "Fort Worth, TX",
+      "score": 9.1
+    },
+    {
+      "title": "Architectural Project Manager",
+      "company": "Apollo Technical",
+      "location": "Flower Mound, TX",
       "score": 8.5
     },
     {
       "title": "Junior IWMS Project Manager - Intern",
       "company": "Volaris Group",
-      "location": "Wausau, WI",
-      "score": 8.5
-    },
-    {
-      "title": "Junior Project Manager - Start Your PM Career in Tech",
-      "company": "JanBask CRM Software",
-      "location": "Arlington, VA",
-      "score": 9.8
+      "location": "San Antonio, TX",
+      "score": 10
     }
   ],
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 51256
+    "totalCalls": 51414
   }
 }
