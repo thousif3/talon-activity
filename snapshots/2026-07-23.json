@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-07-23T00:39:14.383Z",
+  "timestampET": "7/22/2026, 8:39:14 PM",
+  "pipeline": {
+    "jobsScanned": 1047,
+    "eligible": 17,
+    "score7plus": 17,
+    "approved": 9,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 33
+  },
+  "topJobs": [
+    {
+      "title": "Remote PMO Intern: Agile Software Project Coordinator",
+      "company": "BD (Becton, Dickinson and Company)",
+      "location": "San Diego, CA",
+      "score": 10
+    },
+    {
+      "title": "Junior IWMS Project Manager - Intern",
+      "company": "Volaris Group",
+      "location": "Wausau, WI",
+      "score": 9.1
+    },
+    {
+      "title": "Architectural Project Manager",
+      "company": "Apollo Technical",
+      "location": "Flower Mound, TX",
+      "score": 8.5
+    },
+    {
+      "title": "Project Manager (Multi-Family)",
+      "company": "KPRS Construction",
+      "location": "San Diego, CA",
+      "score": 8.5
+    },
+    {
+      "title": "Project Manager Intern",
+      "company": "TelePharm LLC",
+      "location": "Iowa City, IA",
+      "score": 9.1
+    }
+  ],
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 51654
+  }
+}
