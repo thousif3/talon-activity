@@ -6,7 +6,7 @@
 
 This repo receives automatic daily commits from the TALON system running 24/7 on a personal Mini PC. Each commit represents a day of autonomous operation — job scanning, AI scoring, Gmail monitoring, and news intelligence.
 
-## Latest Stats (2026-10-06)
+## Latest Stats (2026-10-07)
 
 | Metric | Value |
 |--------|-------|
@@ -29,7 +29,7 @@ This repo receives automatic daily commits from the TALON system running 24/7 on
 
 ## Stack
 
-Node.js · Gemini 3.1 Flash-Lite · NVIDIA DeepSeek V3 · GPT-4o · Ollama · Discord API · Gmail OAuth2 · PM2 · n8n · Ubuntu 24
+Node.js · LiteLLM gateway · Groq · NVIDIA NIM · OpenRouter · Ollama · Qdrant · PM2 · Docker · Cloudflare Tunnel · Ubuntu
 
 ## Links
 
