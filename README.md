@@ -6,7 +6,7 @@
 
 Each commit here is one scheduled run of the TALON scheduler on a self-hosted mini PC. It posts at 8AM and 8PM ET, and every day gets its own dated log in `logs/`.
 
-## Latest update (2026-10-07)
+## Latest update (2026-10-08)
 
 - **Scheduler:** running; job scan off (legacy job search is disabled). This log is posted at 8AM and 8PM ET.
 - **Stats page:** https://thousif3.github.io/talon-stats/ (export paused)
