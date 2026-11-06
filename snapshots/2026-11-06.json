@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-06T13:00:29.673Z",
+  "timestampET": "11/6/2026, 8:00:29 AM",
+  "system": {
+    "jobScan": "off",
+    "statsExport": "off",
+    "gateway": "LiteLLM → Groq / NVIDIA NIM / OpenRouter / Ollama"
+  },
+  "aiCosts": {
+    "totalSpent": 0.0651,
+    "totalCalls": 51916
+  }
+}
